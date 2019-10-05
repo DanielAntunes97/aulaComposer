@@ -1,17 +1,16 @@
 {
-  "name": "danielantunes97/aulacomposer",
-  "description": "Aula Composer",
-  "homepage": "https://github.com/DanielAntunes97:",
-  "license": "MIT",
-  "keywords": ["test", "composer"],
-  "require": {
-	  "php": ">=5.6"
-  },
-  "authors": [
-	 {
-		"name": "Daniel Antunes",
-		"email": "daniel.antunes1697@gmail.com"
-	 }
-  ]
+    "name": "danielantunes97/aulacomposer",
+    "description": "Aula Composer",
+    "homepage": "https://github.com/DanielAntunes97:",
+    "license": "MIT",
+    "keywords": ["test", "composer"],
+    "require": {
+        "php": ">=5.6"
+    },
+    "authors": [
+        {
+            "name": "Daniel Antunes",
+            "email": "daniel.antunes1697@gmail.com"
+        }
+    ]
 }
-
